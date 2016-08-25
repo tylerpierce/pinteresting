@@ -1,6 +1,6 @@
-require 'test_helper'
+require 'tsldifjsldkfjlsdfkljest_helper'
 
-class UserTest < ActiveSupport::TestCase
+class UserTeslksdlkfslkjdfslkjfdlsjdflksst < AcdnfsjdkfnjskdfknjsdtiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
